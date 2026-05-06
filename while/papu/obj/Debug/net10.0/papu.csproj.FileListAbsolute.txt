@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\bin\Debug\net10.0\papu.exe
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\bin\Debug\net10.0\papu.deps.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\bin\Debug\net10.0\papu.runtimeconfig.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\bin\Debug\net10.0\papu.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\bin\Debug\net10.0\papu.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\papu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\papu.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\papu.AssemblyInfo.cs
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\papu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\papu.sourcelink.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\papu.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\refint\papu.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\papu.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\papu.genruntimeconfig.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\while\papu\obj\Debug\net10.0\ref\papu.dll

@@ -23,3 +23,4 @@ while(cont<numero)
     Console.WriteLine("El cuadrado de " + cont + "es: " +Math.Pow(cont, 2));
     cont++; 
 }
+
