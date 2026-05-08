@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\bin\Debug\net10.0\SumdaDeArreglo.exe
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\bin\Debug\net10.0\SumdaDeArreglo.deps.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\bin\Debug\net10.0\SumdaDeArreglo.runtimeconfig.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\bin\Debug\net10.0\SumdaDeArreglo.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\bin\Debug\net10.0\SumdaDeArreglo.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\SumdaDeArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\SumdaDeArreglo.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\SumdaDeArreglo.AssemblyInfo.cs
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\SumdaDeArreglo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\SumdaDeArreglo.sourcelink.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\SumdaDeArreglo.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\refint\SumdaDeArreglo.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\SumdaDeArreglo.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\SumdaDeArreglo.genruntimeconfig.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\SumdaDeArreglo\obj\Debug\net10.0\ref\SumdaDeArreglo.dll

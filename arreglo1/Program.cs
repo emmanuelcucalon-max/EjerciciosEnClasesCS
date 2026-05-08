@@ -8,7 +8,7 @@ for (int i = 0; i < edades.Length; i++)
     try
     {
          Console.WriteLine("Ingrese la edad " + (i + 1) + ":");
-        edades[i] = int.Parse(Console.ReadLine());
+        edades[i] = int.Parse(Console.ReadLine()!);
     }
     catch (FormatException)
     {
