@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\bin\Debug\net10.0\diferenciadearreglos.exe
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\bin\Debug\net10.0\diferenciadearreglos.deps.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\bin\Debug\net10.0\diferenciadearreglos.runtimeconfig.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\bin\Debug\net10.0\diferenciadearreglos.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\bin\Debug\net10.0\diferenciadearreglos.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\diferenciadearreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\diferenciadearreglos.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\diferenciadearreglos.AssemblyInfo.cs
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\diferenciadearreglos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\diferenciadearreglos.sourcelink.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\diferenciadearreglos.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\refint\diferenciadearreglos.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\diferenciadearreglos.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\diferenciadearreglos.genruntimeconfig.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\diferenciadearreglos\obj\Debug\net10.0\ref\diferenciadearreglos.dll

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\bin\Debug\net10.0\magnituddeunvector.exe
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\bin\Debug\net10.0\magnituddeunvector.deps.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\bin\Debug\net10.0\magnituddeunvector.runtimeconfig.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\bin\Debug\net10.0\magnituddeunvector.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\bin\Debug\net10.0\magnituddeunvector.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\magnituddeunvector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\magnituddeunvector.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\magnituddeunvector.AssemblyInfo.cs
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\magnituddeunvector.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\magnituddeunvector.sourcelink.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\magnituddeunvector.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\refint\magnituddeunvector.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\magnituddeunvector.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\magnituddeunvector.genruntimeconfig.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\magnituddeunvector\obj\Debug\net10.0\ref\magnituddeunvector.dll

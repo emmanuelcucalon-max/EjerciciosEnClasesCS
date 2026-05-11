@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\bin\Debug\net10.0\ejercisio1.exe
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\bin\Debug\net10.0\ejercisio1.deps.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\bin\Debug\net10.0\ejercisio1.runtimeconfig.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\bin\Debug\net10.0\ejercisio1.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\bin\Debug\net10.0\ejercisio1.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ejercisio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ejercisio1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ejercisio1.AssemblyInfo.cs
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ejercisio1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ejercisio1.sourcelink.json
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ejercisio1.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\refint\ejercisio1.dll
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ejercisio1.pdb
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ejercisio1.genruntimeconfig.cache
+C:\Users\USER\Desktop\Grupo6ProgramacionCS\ejercisio\ejercisio1\obj\Debug\net10.0\ref\ejercisio1.dll
